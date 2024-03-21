@@ -1,5 +1,8 @@
 # ArduinoHID-Scripts
 A collection of HID scripts that works in Arduino.
 
-# Support
-- It supports Arduino Leonardo, Arduino Micro and Arduino Pro Micro.
+# Supported Boards
+- It supports :
+1. Arduino Leonardo
+2. Arduino Micro
+3. Arduino Pro Micro
