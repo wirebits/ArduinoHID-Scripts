@@ -1,5 +1,5 @@
 /*
- * 4DigitPINCrack
+ * 4-Digit PIN Crack
  * It unlock the phone which is protected by 4-Digit PIN using Brute Force Attack.
  * Author - WireBits
  */
