@@ -1,6 +1,6 @@
 /*
  * Powershell Downloader
- * It downloads thing by just URL and save with custom name and extension.
+ * It downloads anything by just URL and save with custom name and extension.
  * Author - WireBits
  */
  
