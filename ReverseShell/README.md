@@ -1,6 +1,9 @@
 # Reverse Shell
 It gives the complete control of the victim computer.
 
+# Credits
+The `nc.exe` and `nc64.exe` files are developed by [ZER0](https://github.com/int0x33).
+
 # Use
 - Replace `folder_name` with the folder name you want.
 - Replace `nctool_url` with the URL of the netcat tool.
