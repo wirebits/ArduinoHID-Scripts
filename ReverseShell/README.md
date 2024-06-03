@@ -9,7 +9,7 @@ It gives the complete control of the victim computer.
 - Compile and upload the code on any supported board you have using Arduino IDE.
 - Done!
 
-#NetCat Tool URL
+# NetCat Tool URL
 - This is for windows only.
 - Just copy and paste by replacing `nctool_url`.
 
